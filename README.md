@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(max-width: 1000px)" srcset="">
-  <img align="right" alt="" src="./assets/searching.webp" width=500px>
+  <img align="right" alt="" src="./assets/searching.webp" width=400px>
 </picture>
 
 - Hello. My name is Raghav. I am a self taught front-end developer with a nack to create engaging and user-friendly websites.
