@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 
 <picture>
-  <source media="(max-width: 767px)" srcset="">
+  <source media="(max-width: 1000px)" srcset="">
   <img align="right" alt="" src="./assets/searching.webp" width=300px>
 </picture>
 
